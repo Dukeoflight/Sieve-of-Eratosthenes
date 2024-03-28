@@ -1,0 +1,5 @@
+This program will construct a Sieve of Eratosthenes. It requires one argument but can take up to three.
+1. The first argument determines how many values to make the table for 4-9408. (Required)
+2. The second argument takes a posotive integer and lets you manually set column count. 
+3. The third argument takes Y or N and lets you decide if you want to highlight primes.
+   The default highlightes primes, Y highlights them and N does not highlight them.

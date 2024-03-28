@@ -1,0 +1,11 @@
+﻿  Sieve of Eratosthenes.cpp
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(72,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(76,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(136,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(242,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(243,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(247,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(248,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(254,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\Sieve of Eratosthenes\Sieve of Eratosthenes.cpp(260,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sieve of Eratosthenes.vcxproj -> C:\Users\Lucas\OneDrive\C++ Applications\Sieve of Eratosthenes\x64\Debug\Sieve of Eratosthenes.exe
